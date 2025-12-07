@@ -1,4 +1,4 @@
-IPL-Data-Analysis
+## IPL-Data-Analysis
 
 This project presents a comprehensive IPL (Indian Premier League) Analysis Dashboard built using Power BI. It provides insights into team performance, player statistics, match outcomes, and venue-based analytics for the 2008-2024 IPL season. The IPL Analysis Dashboard is an interactive and visual representation of IPL 2024 data designed for cricket enthusiasts, analysts, and stakeholders to track team performances across venues, explore top-performing players (Orange and Purple Cap holders), analyze toss decisions and match outcomes, compare win distributions by runs and wickets and give batting and bowling statistics.
 
